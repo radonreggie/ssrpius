@@ -25,7 +25,7 @@ on:
     types: started
 
 env:
-  REPO_URL: https://github.com/radonreggie/OpenWrt.git
+  REPO_URL: https://github.com/radonreggie/OpenWrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
